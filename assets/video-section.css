@@ -40,7 +40,7 @@
 }
 
 .video-section__media video {
-  background: #000000;
+  background: rgba(var(--color-foreground), 0.9);
 }
 
 .video-section__media.media-fit-cover video {
